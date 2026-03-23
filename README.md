@@ -16,7 +16,7 @@ I am a 3rd-year student at the Financial University, studying at the Faculty of 
 ## Technical Skills
 
 **Programming Languages**  
-Python, SQL, C++
+Python, SQL
 
 **Machine Learning & Data Science**  
 Scikit-learn, TensorFlow, PyTorch, Pandas, NumPy, Matplotlib, Seaborn, Streamlit
