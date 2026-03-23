@@ -1,6 +1,4 @@
-# Dayana
-
-## About Me
+# Hi, I'm Dayana
 
 I am a 3rd-year student at the Financial University, studying at the Faculty of Applied Mathematics and Computer Science with a specialization in Machine Learning.
 
@@ -30,14 +28,11 @@ Scikit-learn, TensorFlow, PyTorch, Pandas, NumPy, Matplotlib, Seaborn, Streamlit
 ## Projects
 
 | Projects |
-Yandex Market Sales Analytics
-Fast Food Market A/B test
-Supply Chain Analytics
+|Yandex Market Sales Analytics|
+|Fast Food Market A/B test|
+|Supply Chain Analytics|
 
 ---
 
 ## Contact
-
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- Telegram: [@daikababaika](https://t.me/daikababaika)
